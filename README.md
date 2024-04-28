@@ -1,0 +1,1 @@
+# Rider-Prettier-Config
